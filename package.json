@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "homepage": "https://github.com/DangVanHoaaa/backend#readme",
+  "bugs": {
+    "url": "https://github.com/DangVanHoaaa/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DangVanHoaaa/backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+ 
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
